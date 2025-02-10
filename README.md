@@ -35,3 +35,6 @@ Install Power BI Desktop: Ensure you have Power BI Desktop installed.
 Open the Dashboard: Load the provided Power BI (.pbix) file.
 
 Explore Data: Use interactive elements such as filters and slicers to analyze different aspects of sales and customer behavior.
+
+## Output of the project ddashboard
+![Image](https://github.com/user-attachments/assets/58106eb3-9a86-430b-9870-12d3711d0a5c)
